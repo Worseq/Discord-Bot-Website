@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="/logo.jpg" />
+          <link rel="apple-touch-icon" href="/image-removebg-preview (4).png" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
@@ -28,7 +28,7 @@ class MyDocument extends Document {
             property="og:description"
             content="How about moderating your own server with Astra bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
           />
-          <meta property="og:image" content="/img/logo.jpg" />
+          <meta property="og:image" content="/img/image-removebg-preview (4).png" />
           <meta property="og:image:alt" content="MYRoleplay" />
           <meta property="og:locale" content="en_GB" />
           <meta
