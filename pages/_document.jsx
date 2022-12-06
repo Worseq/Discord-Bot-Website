@@ -14,11 +14,11 @@ class MyDocument extends Document {
             content="How about moderating your own server with Astra bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@AstraBot" />
-          <meta name="twitter:creator" content="@AstraBot" />
+          <meta name="twitter:site" content="MYRoleplay" />
+          <meta name="twitter:creator" content="MYRoleplay" />
           <meta property="og:url" content="https://astrabot.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Astra Bot" />
+          <meta property="og:title" content="MYRoleplay" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -29,11 +29,11 @@ class MyDocument extends Document {
             content="How about moderating your own server with Astra bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="Astra Bot" />
+          <meta property="og:image:alt" content="MYRoleplay" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Astra Bot"
+            content="MYRoleplay"
           />
           <meta name="theme-color" content="#6108dd" />
           <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
