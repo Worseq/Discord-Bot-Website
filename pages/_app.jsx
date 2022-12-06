@@ -27,14 +27,14 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Commands",
+      name: "Komutlar",
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
       href: "/commands",
     },
     {
       link: true,
-      name: "Support",
+      name: "Destek",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
       href: "https://discord.gg/ZcDprCrFTn",
@@ -48,14 +48,14 @@ export default function AwardApp({ Component, pageProps }) {
     },
        {
       link: true,
-      name: "Vote",
+      name: "Oy Ver",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
       href: "https://bit.ly/3LYzaDe",
     },
     {
       link: true,
-      name: "Partners",
+      name: "Partnerler",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
       href: "/partners",
@@ -71,7 +71,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          Astra Bot
+          MYRoleplay
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
