@@ -30,14 +30,14 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Komutlar",
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
-      href: "/commands",
+      href: "/komutlar",
     },
     {
       link: true,
       name: "Destek",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/ZcDprCrFTn",
+      href: "https://discord.gg/vFTMsV75Jj",
     },
     {
       link: true,
@@ -58,7 +58,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Partnerler",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
-      href: "/partners",
+      href: "/partnerler",
     }
   ]
 
